@@ -25,7 +25,7 @@ status-website:
 
 #自定义状态页面的navbar名称与链接
   logoUrl: 【控制台网页logo地址】『https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg』
-  name:【控制台网页名字】 『Upptime』
+  name: 【控制台网页名字】 『Upptime』
   introTitle: 【网页标题】『这是使用upptime构建的开源网页状态监控页』
   introMessage: 【网页简介】『这里可以随便写的啦』
   navbar:
