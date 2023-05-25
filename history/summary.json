@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-24": 0
+      "2023-05-25": 144,
+      "2023-05-24": 90
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bing",
     "status": "down",
-    "uptime": "6.73%",
-    "uptimeDay": "6.73%",
-    "uptimeWeek": "6.73%",
-    "uptimeMonth": "6.73%",
-    "uptimeYear": "6.73%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-24": 0
+      "2023-05-25": 144,
+      "2023-05-24": 90
     }
   }
 ]
