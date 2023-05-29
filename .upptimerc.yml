@@ -1,35 +1,30 @@
-# 【】以及其中的内容，为说明文字，需要替换为你自己的设置。
-# 『』以及其中的内容，为示例参数，需要替换为你自己的设置。
+owner: star1437 # Your GitHub organization or username, where this repository lives
+repo: upptime # The name of this repository
 
-#你的GitHub username 
-owner: 【你的 GitHub username】『star1437』
-
-#你的GitHub repo name 
-repo: 【你的 repo name】『upptime』
-
-
-#下边写的时候一定注意代码的缩进让，“-” 都在同一个竖线上，“name”和“url”也都在同一个竖线上，层次不齐的代码高几率直接报错
 sites:
-  - name: 【要监控的第一个网页的名称】『Baidu』
-    url: 【要监控的第一个网页的域名】『https://www.baidu.com/』
-  - name: 【要监控的第二个网页的名称】『Bing』
-    url: 【要监控的第二个网页的域名】『https://cn.bing.com/』
+  - name: Google
+    url: https://www.google.com
+  - name: Wikipedia
+    url: https://en.wikipedia.org
+  - name: Hacker News
+    url: https://news.ycombinator.com
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
-
-
-# A-如果你的监控控制台页面，打算使用github的默认域名，则使用如下设置。和下边B设置互斥，请二选一
-status-website: 
-  baseUrl: 【/你的 repo name】『/upptime』
-
-
-
-#自定义状态页面的navbar名称与链接
-  logoUrl: 【控制台网页logo地址】『https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg』
-  name: 【控制台网页名字】 『Upptime』
-  introTitle: 【网页标题】『这是使用upptime构建的开源网页状态监控页』
-  introMessage: 【网页简介】『这里可以随便写的啦』
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: demo.upptime.js.org
+  baseUrl: /upptime
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Upptime
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
