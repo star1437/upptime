@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 113,
-    "timeDay": 84,
-    "timeWeek": 102,
+    "time": 112,
+    "timeDay": 83,
+    "timeWeek": 100,
     "timeMonth": 91,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "98.94%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 228,
-    "timeWeek": 306,
-    "timeMonth": 240,
-    "timeYear": 224,
+    "timeDay": 282,
+    "timeWeek": 321,
+    "timeMonth": 248,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -44,15 +44,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 361,
-    "timeDay": 307,
-    "timeWeek": 341,
-    "timeMonth": 310,
+    "time": 360,
+    "timeDay": 118,
+    "timeWeek": 265,
+    "timeMonth": 296,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2024-01-10": 126,
@@ -84,7 +84,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-18": 33,
+      "2024-07-20": 33,
+      "2024-07-19": 1440,
+      "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
@@ -446,9 +448,7 @@
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
-      "2023-07-22": 1440,
-      "2023-07-21": 1440,
-      "2023-07-20": 1440
+      "2023-07-22": 1440
     }
   }
 ]
