@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 123,
-    "timeWeek": 94,
+    "timeDay": 86,
+    "timeWeek": 95,
     "timeMonth": 105,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 205,
-    "timeWeek": 281,
-    "timeMonth": 258,
-    "timeYear": 237,
+    "time": 228,
+    "timeDay": 82,
+    "timeWeek": 217,
+    "timeMonth": 253,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 355,
-    "timeDay": 361,
-    "timeWeek": 330,
-    "timeMonth": 324,
+    "timeDay": 133,
+    "timeWeek": 277,
+    "timeMonth": 318,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2024-08-01": 16,
@@ -82,7 +82,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-09": 37,
+      "2024-11-10": 41,
+      "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
@@ -445,8 +446,7 @@
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
-      "2023-11-12": 1440,
-      "2023-11-11": 1440
+      "2023-11-12": 1440
     }
   }
 ]
