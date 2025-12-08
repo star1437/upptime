@@ -6,14 +6,14 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "98.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 121,
-    "timeDay": 172,
-    "timeWeek": 303,
-    "timeMonth": 237,
+    "timeDay": 74,
+    "timeWeek": 301,
+    "timeMonth": 235,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2025-12-06": 20,
@@ -33,10 +33,10 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 198,
-    "timeWeek": 277,
-    "timeMonth": 184,
+    "time": 198,
+    "timeDay": 47,
+    "timeWeek": 258,
+    "timeMonth": 178,
     "timeYear": 180,
     "dailyMinutesDown": {
       "2025-12-03": 18
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 318,
-    "timeDay": 273,
-    "timeWeek": 317,
-    "timeMonth": 271,
-    "timeYear": 315,
+    "timeDay": 107,
+    "timeWeek": 284,
+    "timeMonth": 266,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2025-05-21": 22,
       "2025-05-11": 104,
@@ -81,7 +81,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-07": 54,
+      "2025-12-08": 49,
+      "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
@@ -444,8 +445,7 @@
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
-      "2024-12-09": 1440,
-      "2024-12-08": 1440
+      "2024-12-09": 1440
     }
   }
 ]
