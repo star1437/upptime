@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 132,
-    "timeDay": 95,
-    "timeWeek": 131,
+    "timeDay": 123,
+    "timeWeek": 135,
     "timeMonth": 228,
     "timeYear": 137,
     "dailyMinutesDown": {
@@ -34,10 +34,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 193,
-    "timeWeek": 159,
-    "timeMonth": 179,
+    "time": 190,
+    "timeDay": 76,
+    "timeWeek": 143,
+    "timeMonth": 173,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2025-12-03": 18
@@ -54,10 +54,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 309,
-    "timeDay": 381,
-    "timeWeek": 283,
-    "timeMonth": 264,
+    "time": 310,
+    "timeDay": 426,
+    "timeWeek": 328,
+    "timeMonth": 270,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2025-05-21": 22,
@@ -82,7 +82,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-29": 60,
+      "2026-01-30": 60,
+      "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
@@ -445,8 +446,7 @@
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
-      "2025-01-31": 1440,
-      "2025-01-30": 1440
+      "2025-01-31": 1440
     }
   }
 ]
